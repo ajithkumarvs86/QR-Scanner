@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="scanner">Qr Scanner</string>
+    <string name="focus_the_scanner">Focus The Scanner On QR Code</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="switch_on_flashlight">Switch ON/OFF Flash</string>
+    <string name="upload_qr_code_hint">Upload QR Code From Gallery</string>
+    <string name="result_of_qr_code">Scan Result:</string>
+</resources>
